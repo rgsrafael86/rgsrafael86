@@ -1,19 +1,20 @@
 # Rafael Guimarães
 
-Construo SaaS para pequenos negócios no Brasil — do catálogo ao Pix.
+Construo software de operação para pequenos negócios no Brasil.
 
 ## No ar
 
-- **[Cakers](https://cakers.maintply.com.br)** — ERP para confeitarias: catálogo digital, pedidos, Pix com split e onboarding de lojista
-- **[PatotaPro](https://patotapro.com.br)** — gestão de grupos e mensalidades recorrentes
+- **[Cakers](https://cakers.maintply.com.br)** — sistema para confeitarias: catálogo digital, pedidos e rotina de produção
+- **[PatotaPro](https://patotapro.com.br)** — organização de grupos e rotinas recorrentes
 - **GalvaControl** — controle de produção para galvanoplastia (repositório privado)
 
 ## Como trabalho
 
-Next.js · TypeScript · PostgreSQL · Supabase self-hosted · Asaas (BaaS)
+Next.js · TypeScript · PostgreSQL · Supabase · Docker
 
 Deploy em VPS própria, com teste escrito antes do código, verificação por agente distinto de quem implementa
-e smoke test depois de cada deploy. Cada afirmação de "funciona" carrega comando e saída, não impressão.
+e checagem automática depois de cada publicação. Cada afirmação de "funciona" carrega comando e saída, não
+impressão.
 
 ## Estudando
 
